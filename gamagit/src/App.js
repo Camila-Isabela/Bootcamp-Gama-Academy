@@ -1,16 +1,12 @@
-import React, {Fragment} from 'react'
+import React from 'react';
+import Routes from './routes';
 
+import './style.css'
 
-function App(props) {
+function App() {
   return (
-    <Fragment>
-      <h1>{props.title} {props.user}</h1>
-      <input name="usuario" id="usuario" className="usarioInput" placeholder="Usuário" />
-      <button type="button">Pesquisar</button>
-    </Fragment>
+    <Routes />  
   );
 }
-
 export default App;
 
-//complicado fazer repo disso aqui!!
