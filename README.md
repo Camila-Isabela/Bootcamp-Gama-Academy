@@ -1,9 +1,10 @@
-# AirBnB-GamaAcademy
-## :green_heart: :computer:  React-JS :rocket:
+# :green_heart: GamaAcademy
+##  :rocket:  React 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
- ## Aula de React JS - Gama Academy :pushpin:
+ ## Utilizando o React  :pushpin:
+ 
  ### Ferramentas da aplicação :toolbox:
  
 :heavy_check_mark: Fundamentos do React
