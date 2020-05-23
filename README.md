@@ -1,4 +1,4 @@
-# :green_heart: Gama Academy :rocket:
+# Gama Academy :rocket:
 
  ## :pushpin:  Aplicação simples e funcional utilizando o REACT  
  
