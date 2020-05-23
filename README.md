@@ -1,6 +1,6 @@
 # :green_heart: Gama Academy :rocket:
 
- ## :pushpin:  Utilizando o React  
+ ## :pushpin:  Aplicação simples e funcional utilizando o REACT  
  
 ### :toolbox: Ferramentas da aplicação 
  
