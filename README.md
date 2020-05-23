@@ -1,9 +1,8 @@
-# :green_heart: GamaAcademy
- 
+# :green_heart: :rocket: GamaAcademy 
 
- ##Utilizando o React  :pushpin: 
+## Utilizando o React  :pushpin: 
  
- ### Ferramentas da aplicação :toolbox:
+### Ferramentas da aplicação :toolbox:
  
 :heavy_check_mark: Fundamentos do React
 
@@ -27,10 +26,14 @@
 
 ### Utilizando a aplicação :gear:
 
-Para utilizar a aplicação, é só executar os seguintes comando na raiz do projeto:
+A aplicação tem por objetivo buscar e exibir os repositórios do usuário inserido na caixa de pesquisa.
+
+Para utilizar a aplicação, é só executar os seguintes comandos na raiz do projeto:
 
 `npm install`
 
-"npm start"
+`npm start`
+
+
 
 
