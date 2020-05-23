@@ -15,8 +15,7 @@ export default function Repositories() {
             localStorage.clear();
         } else {
             history.push('/');
-        }
-        
+            }
         
     }, []);
 
