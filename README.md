@@ -1,9 +1,7 @@
 # :green_heart: GamaAcademy
-##  :rocket:  React 
+ 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
- ## Utilizando o React  :pushpin:
+ ##Utilizando o React  :pushpin: 
  
  ### Ferramentas da aplicação :toolbox:
  
@@ -27,6 +25,12 @@
 
 :heavy_check_mark: Conditional Rendering
 
-###Utilizando a aplicação :gear:
+### Utilizando a aplicação :gear:
+
+Para utilizar a aplicação, é só executar os seguintes comando na raiz do projeto:
+
+`npm install`
+
+"npm start"
 
 
