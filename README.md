@@ -1,4 +1,4 @@
-# :green_heart: :rocket: GamaAcademy 
+# :green_heart: Gama Academy :rocket:
 
 ## Utilizando o React  :pushpin: 
  
@@ -26,7 +26,7 @@
 
 ### Utilizando a aplicação :gear:
 
-A aplicação tem por objetivo buscar e exibir os repositórios do usuário inserido na caixa de pesquisa.
+A aplicação tem por objetivo buscar e exibir os repositórios do GitHub de acordo com o usuário que foi inserido na caixa de pesquisa.
 
 Para utilizar a aplicação, é só executar os seguintes comandos na raiz do projeto:
 
