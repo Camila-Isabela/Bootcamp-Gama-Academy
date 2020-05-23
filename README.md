@@ -1,8 +1,8 @@
 # :green_heart: Gama Academy :rocket:
 
-## Utilizando o React  :pushpin: 
+ ## :pushpin:  Utilizando o React  
  
-### Ferramentas da aplicação :toolbox:
+### :toolbox: Ferramentas da aplicação 
  
 :heavy_check_mark: Fundamentos do React
 
