@@ -23,10 +23,11 @@ export const List = styled.ul`
 
 export const ListItem = styled.li`
     margin: .5rem 0;
-    background: #273746 ;
-    color: #fff;
+    background: #003049 ;
+    color: #f1faee;
     padding: .5rem;
     border-radius: 10px;
+    
 `;
 
 export const LinkHome = styled(Link)`

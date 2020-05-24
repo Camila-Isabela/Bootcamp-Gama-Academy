@@ -16,7 +16,7 @@ export const Content = styled.div`
 `;
 
 export const Input = styled.input`
-    border: 1px solid #000;
+    border: 1px solid #f77f00;
     height: 2rem;
     padding: 0 .5rem;
     border-radius: .25rem 0 0 .25rem;
@@ -29,17 +29,17 @@ export const Input = styled.input`
 ` ;
 
 export const Button = styled.button`
-    height: 2rem;
-    border: 1px solid #000;
-    background: #000;
+    height: 2.15rem;
+    border: 1px solid #f77f00;
+    background: #003049;
     color: #fff;
     border-radius: 0 .25rem .25rem 0;
 `;
 
 export const ErrorMsg = styled.span`
     display: block;
-    font-size: 0.65rem;
-    color: red;
+    font-size: 0.85rem;
+    color: #d62828;
     font-weight: 600;
     margin-top: 1rem; 
 `
