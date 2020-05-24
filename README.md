@@ -34,6 +34,8 @@ Para utilizar a aplicação, é só executar os seguintes comandos na raiz do pr
 
 `npm start`
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/936a480a-4c49-4e77-aa0d-d44b2d529447/deploy-status)](https://app.netlify.com/sites/react-repogit/deploys)
+
 
 
 
